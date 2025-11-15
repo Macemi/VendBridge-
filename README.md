@@ -135,7 +135,7 @@ VendBridge was launched **three months ago** following significant investment in
 > - Technical stability
 > - Regional disparities
 
-By leveraging **data-driven insights** and implementing **targeted strategies** — from **funnel optimization** to **gamified retention** and **localized expansion** —  
+By leveraging **data-driven insights** and implementing **targeted strategies**  from **funnel optimization** to **gamified retention** and **localized expansion**  
 **VendBridge is well-positioned to evolve into a trusted, high-performing marketplace** that delivers **lasting value to users and stakeholders alike**.
 
 ---
