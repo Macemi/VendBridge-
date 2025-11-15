@@ -16,6 +16,11 @@ Product Analytics: App Engagement Mastery Monitoring Dashboard
 NexaLink aspires to set new benchmarks in e-commerce by fostering trust and ensuring satisfaction for both parties involved in a transaction.
 
 ---
+<img width="1179" height="790" alt="Screenshot 2025-11-15 171000" src="https://github.com/user-attachments/assets/5b5ee670-0a7e-4a61-b4e6-fde47b2fa506" />
+<img width="1186" height="790" alt="Screenshot 2025-11-15 171017" src="https://github.com/user-attachments/assets/0338563a-b4a6-4966-81ca-f2f36c480a89" />
+
+
+
 ## Business Challenge
 
 VendBridge was launched **three months ago** following significant investment in marketing campaigns, and there’s a need to monitor its performance and market reception.
